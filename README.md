@@ -9,6 +9,12 @@
 ✍️: As my IDE I use vim with [my own config](https://github.com/aneshodza/.dotfiles/blob/main/.vimrc)  
 
 ---
+# 🔓 Open source contributions
+I hope to fill this list a bit more, but as of now, here are some of my open-source contributions:
+* [The ruby text-hyphen library](https://github.com/halostatue/text-hyphen/blob/main/History.md#150--2023-03-18)
+* [Work on tracky, a redmine plugin](https://github.com/renuo/redmine_tracky)
+
+---
 # ✨ More stuff:
 
 📝: Check out my [blogs on dev.to!](https://dev.to/aneshodza)  
