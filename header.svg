@@ -1,0 +1,190 @@
+<svg fill="none" viewBox="0 0 450 75" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            .svg-content {
+                background-color: black;
+                color: white;
+                padding: 10px;
+            }
+
+            .input-wrapper {
+                display: block;
+                font-family: monospace;
+                font-size: 125%;
+                width: 50%;
+            }
+
+            .first-line {
+                display: flex;
+                flex-direction: row;
+            }
+
+            .first-user-input {
+                margin-right: 5px;
+            }
+
+            .placeholder {
+                display: block;
+                -webkit-appearance: none;
+                    -moz-appearance: none;
+                        appearance: none;
+                width: 100%;
+                height: 100%;
+                background-color: transparent;
+                border: none;
+            }
+
+            .placeholder::after {
+                content: "_";
+                -webkit-animation: 0.0001s hide-caret linear 2s forwards;
+                        animation: 0.0001s hide-caret linear 2s forwards;
+            }
+
+            .placeholder::before {
+                content: "";
+                content: ""/"whoami";
+                alt: "whoami";
+                white-space: break-spaces;
+                will-change: content;
+                -webkit-animation: typed-0 5s linear 1s forwards;
+                        animation: typed-0 5s linear 1s forwards;
+            }
+
+            .last-user-input {
+                margin-right: 10px;
+            }
+
+            .last-user-input::after {
+            content: "_";
+            margin-left: 5px;
+            position: relative;
+            display: inline-block;
+            white-space: nowrap;
+            -webkit-animation: typed-0-caret 1.1s linear infinite 1s forwards;
+                    animation: typed-0-caret 1.1s linear infinite 1s forwards;
+            animation-delay: 1.25s;
+            }
+
+            @-webkit-keyframes typed-0 {
+                0%, 2.4499803922% {
+                    content: "w";
+                    content: "w"/"whoami";
+                    alt: "whoami";
+                }
+                2.4509803922%, 4.9009607843% {
+                    content: "wh";
+                    content: "wh"/"whoami";
+                    alt: "whoami";
+                }
+                4.9019607843%, 7.3519411765% {
+                    content: "who";
+                    content: "who"/"whoami";
+                    alt: "whoami";
+                }
+                7.3529411765%, 9.8029215686% {
+                    content: "whoa";
+                    content: "whoa"/"whoami";
+                    alt: "whoami";
+                }
+                9.8039215686%, 12.2539019608% {
+                    content: "whoam";
+                    content: "whoam"/"whoami";
+                    alt: "whoami";
+                }
+                12.2549019608%, 100% {
+                    content: "whoami";
+                    content: "whoami"/"whoami";
+                    alt: "whoami";
+                }
+            }
+
+            @keyframes typed-0 {
+                0%, 2.4499803922% {
+                    content: "w";
+                    content: "w"/"whoami";
+                    alt: "whoami";
+                }
+                2.4509803922%, 4.9009607843% {
+                    content: "wh";
+                    content: "wh"/"whoami";
+                    alt: "whoami";
+                }
+                4.9019607843%, 7.3519411765% {
+                    content: "who";
+                    content: "who"/"whoami";
+                    alt: "whoami";
+                }
+                7.3529411765%, 9.8029215686% {
+                    content: "whoa";
+                    content: "whoa"/"whoami";
+                    alt: "whoami";
+                }
+                9.8039215686%, 12.2539019608% {
+                    content: "whoam";
+                    content: "whoam"/"whoami";
+                    alt: "whoami";
+                }
+                12.2549019608%, 100% {
+                    content: "whoami";
+                    content: "whoami"/"whoami";
+                    alt: "whoami";
+                }
+            }
+
+            @-webkit-keyframes typed-0-caret {
+                80% {
+                    opacity: 0;
+                }
+            }
+
+            @keyframes typed-0-caret {
+                80% {
+                    opacity: 0;
+                }
+            }
+
+            @-webkit-keyframes hide-caret {
+                to {
+                    opacity: 0;
+                }
+            }
+
+            @keyframes hide-caret {
+                to {
+                    opacity: 0;
+                }
+            }
+
+            .input-wrapper > input:focus + .placeholder, .input-wrapper > input:active + .placeholder {
+                display: none;
+            }
+
+            .answer {
+                opacity: 0;
+                -webkit-animation: 0.0001s show-answer linear 2s forwards;
+                        animation: 0.0001s show-answer linear 2s forwards;
+            }
+
+            @keyframes show-answer {
+                to {
+                    opacity: 1;
+                }
+            }
+
+            </style>
+            <div class="svg-content">
+                <div class="input-wrapper">
+                    <div class="first-line">
+                        <span class="first-user-input">visitor@github:~$ </span>
+                        <span class="placeholder"></span>
+                    </div>
+                    <span class="answer">
+                        anes-hodza <br/>
+                        <span class="last-user-input">visitor@github:~$</span>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </foreignObject>
+</svg>

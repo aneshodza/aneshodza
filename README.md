@@ -1,5 +1,4 @@
-<h1 id="-about-me-" style="padding: 0; margin: 0; border: none">👋 Hey! I'm Anes Hodza</h1>
-<h2 style="padding: 0; margin-top: 10px; border: none">A junior developer from switzerland</h2>
+<img src="./header.svg" alt="readme header" />
 
 <hr>
 
