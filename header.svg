@@ -3,8 +3,8 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             .svg-content {
-                background-color: #0F1216;
-                color: white;
+                background-color: #282c34;
+                color: #e4e4e4;
                 padding: 10px;
             }
 
