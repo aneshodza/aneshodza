@@ -1,3 +1,8 @@
+<h1 id="-about-me-" style="padding: 0; margin: 0; border: none">👋 Hey! I'm Anes Hodza</h1>
+<h2 style="padding: 0; margin-top: 10px; border: none">A junior developer from switzerland</h2>
+
+<hr>
+
 <h1 id="-tech-stack-">💻 Tech Stack:</h1>
 <p style="text-align: left">
     <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&amp;logo=ruby&amp;logoColor=white" alt="Ruby">
