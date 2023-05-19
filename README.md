@@ -3,14 +3,16 @@
 
 ---
 # 👨‍💻 My setup:
-💻: I currently use a MacBook Pro with an m1 chip
-⚙️A: My Terminal of choice is iTerm2 with zsh. [Check out my .zshrc here](https://github.com/aneshodza/.dotfiles/blob/main/.zshrc)
-✍️: As my IDE I use vim with [my own config](https://github.com/aneshodza/.dotfiles/blob/main/.vimrc)
+
+💻: I currently use a MacBook Pro with an m1 chip  
+⚙️: My Terminal of choice is iTerm2 with zsh. [Check out my .zshrc here](https://github.com/aneshodza/.dotfiles/blob/main/.zshrc)  
+✍️: As my IDE I use vim with [my own config](https://github.com/aneshodza/.dotfiles/blob/main/.vimrc)  
 
 ---
 # ✨ More stuff:
-📝: Check out my [blogs on dev.to!](https://dev.to/aneshodza)
-🕸: I also have a [portfolio page](aneshodza.ch)
+
+📝: Check out my [blogs on dev.to!](https://dev.to/aneshodza)  
+🕸: I also have a [portfolio page](aneshodza.ch)  
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aneshodza&icon=0&color=0)](https://visitcount.itsvg.in)
