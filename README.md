@@ -39,6 +39,9 @@
         <a href="https://github.com/renuo/redmine_tracky">Tracky, a redmine plugin</a>
     </li>
     <li>
+        <a href="https://github.com/aneshodza/gnosis">Gnosis, a redmine plugin</a>
+    </li>
+    <li>
         <a href="https://github.com/forem/forem/pull/19503">Forem - The platform that powers dev.to</a>
     </li>
 </ul>
