@@ -49,7 +49,7 @@
 <h1 id="-more-stuff-">✨ More stuff:</h1>
 <p>
     📝: Check out my <a href="https://dev.to/aneshodza">blogs on dev.to!</a><br>
-    🕸: I also have a <a href="aneshodza.ch">portfolio page</a>
+    🕸: I also have a <a href="https://aneshodza.ch">portfolio page</a>
 </p>
 <hr>
 <p>
