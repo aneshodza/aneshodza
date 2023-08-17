@@ -18,6 +18,16 @@
 
 <hr>
 
+<h1 id="-my-achievements-">🥇 Some of my achievements:</h1>
+<ul>
+    <li>
+        <a href="https://www.ict-berufsbildung.ch/resources/Regionalmeisterschaft_2023_Rangliste_complete_ENG1.pdf">I achieved 3rd place in Zürich and 8th place overall in the "Regionalmeisterschaften"</a>
+    </li>
+    <li>
+        <a href="https://www.zli.ch/fileadmin/ZLI/050_Berufsverband__OdA_/030_Berufsabschluss/Dokumente/ICTBerufsabschluss-ImRang-ZH-2023.pdf">I passed my Informatiker Applikationsentwicklung EFZ with a 5.5</a> (CTRL+F "Anes" to find me) 
+    </li>
+</ul>
+
 <h1 id="-my-setup-">👨‍💻 My setup:</h1>
 <p>
     💻: I currently work on a RedHat system <br>
