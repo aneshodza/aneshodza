@@ -35,8 +35,6 @@
     ✍️: As my IDE I use nvim with my <a href="https://github.com/aneshodza/nvchad_config">own nvchad config</a>. I used to have my own vim config <a href="https://github.com/aneshodza/.dotfiles/blob/main/.vimrc">which you can find here</a>
 </p>
 
-<hr>
-
 <h1 id="-open-source-contributions">🔓 Open source contributions</h1>
 <p>
     I hope to fill this list a bit more, but as of now, here are some of my open-source contributions:
@@ -55,7 +53,7 @@
         <a href="https://github.com/forem/forem/pull/19503">Forem - The platform that powers dev.to</a>
     </li>
 </ul>
-<hr>
+
 <h1 id="-more-stuff-">✨ More stuff:</h1>
 <p>
     📝: Check out my <a href="https://dev.to/aneshodza">blogs on dev.to!</a><br>
