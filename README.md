@@ -58,7 +58,7 @@
 <h1 id="-more-stuff-">✨ More stuff:</h1>
 <p>
     📝: Check out my <a href="https://dev.to/aneshodza">blogs on dev.to!</a><br>
-    🕸: I also have a <a href="https://aneshodza.ch">portfolio page</a>
+    🕸: I also have a <a href="https://aneshodza.ch">portfolio page</a><br>
     🔗: You can also find me on <a href="https://www.linkedin.com/in/anes-hodza-8454aa24a">LinkedIn</a>
 </p>
 <hr>
