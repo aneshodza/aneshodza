@@ -59,6 +59,7 @@
 <p>
     📝: Check out my <a href="https://dev.to/aneshodza">blogs on dev.to!</a><br>
     🕸: I also have a <a href="https://aneshodza.ch">portfolio page</a>
+    🔗: You can also find me on <a href="https://www.linkedin.com/in/anes-hodza-8454aa24a">LinkedIn</a>
 </p>
 <hr>
 <p>
