@@ -39,7 +39,10 @@ A few things, might want to take a look at my repos ;)
         <a href="https://github.com/aneshodza/gnosis">Gnosis, a redmine plugin</a>
     </li>
     <li>
-        <a href="https://github.com/forem/forem/pull/19503">Forem - The platform that powers dev.to</a>
+        <a href="https://www.npmjs.com/package/pushdown-automaton">The pushdown-automaton npm package</a>
+    </li>
+    <li>
+        <a href="https://github.com/aneshodza/blank-package.ts">blank-package.ts, An npm package template</a>
     </li>
 </ul>
 
