@@ -2,6 +2,14 @@
 
 <hr>
 
+<h1 id="-studyweek-"><img src="./studyweek.png" height="30" />&nbsp;studyweek</h1>
+studyweek is an iOS App made by me and <a href="https://github.com/MeritonAliu">Meriton Aliu</a>.
+<br />
+<a href="https://apps.apple.com/ch/app/studyweek/id6742083929">Check it out on the App Store and leave 5 Stars!</a>
+    
+
+<hr>
+
 <h1 id="-tech-stack-">💻 Tech Stack:</h1>
 A few things, might want to take a look at my repos ;)
 
