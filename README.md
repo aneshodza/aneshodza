@@ -75,11 +75,3 @@ studyweek is an iOS App made by me and <a href="https://github.com/MeritonAliu">
     🕸: I also have a <a href="https://aneshodza.ch">portfolio page</a><br>
     🔗: You can also find me on <a href="https://www.linkedin.com/in/anes-hodza-8454aa24a">LinkedIn</a>
 </p>
-
-<hr>
-
-<p>
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=aneshodza&amp;icon=0&amp;color=0" alt="">
-    </a>
-</p>
