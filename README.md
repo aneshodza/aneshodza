@@ -6,12 +6,18 @@
 studyweek is an iOS App made by me and <a href="https://github.com/MeritonAliu">Meriton Aliu</a>.
 <br />
 <a href="https://apps.apple.com/ch/app/studyweek/id6742083929">Check it out on the App Store and leave 5 Stars!</a>
-    
 
 <hr>
 
 <h1 id="-tech-stack-">💻 Tech Stack:</h1>
-A few things, might want to take a look at my repos ;)
+<ul>
+    <li>Ruby (on Rails)</li>
+    <li>Java</li>
+    <li>JavaScript & TypeScript</li>
+    <li>Rust</li>
+    <li>SwiftUI</li>
+    <li>...</li>
+</ul>
 
 <hr>
 
@@ -25,6 +31,8 @@ A few things, might want to take a look at my repos ;)
     </li>
 </ul>
 
+<hr>
+
 <h1 id="-my-setup-">👨‍💻 My setup:</h1>
 <p>
     💻: I commercially work on a RedHat system and privately on an M2 MacBook Air <br>
@@ -32,11 +40,16 @@ A few things, might want to take a look at my repos ;)
     ✍️: As my IDE I use nvim with my <a href="https://github.com/aneshodza/nvchad_config">own nvchad config</a>. I used to have my own vim config <a href="https://github.com/aneshodza/.dotfiles/blob/main/.vimrc">which you can find here</a>
 </p>
 
+<hr>
+
 <h1 id="-open-source-contributions">🔓 Open source contributions</h1>
 <p>
     I hope to fill this list a bit more, but as of now, here are some of my open-source contributions:
 </p>
 <ul>
+    <li>
+        <a href="https://universal-turing-machine.ch/">universal-turing-machine.ch</a>
+    </li>
     <li>
         <a href="https://github.com/halostatue/text-hyphen/blob/main/History.md#150--2023-03-18">The ruby text-hyphen library</a>
     </li>
@@ -54,13 +67,17 @@ A few things, might want to take a look at my repos ;)
     </li>
 </ul>
 
+<hr>
+
 <h1 id="-more-stuff-">✨ More stuff:</h1>
 <p>
     📝: Check out my <a href="https://dev.to/aneshodza">blogs on dev.to!</a><br>
     🕸: I also have a <a href="https://aneshodza.ch">portfolio page</a><br>
     🔗: You can also find me on <a href="https://www.linkedin.com/in/anes-hodza-8454aa24a">LinkedIn</a>
 </p>
+
 <hr>
+
 <p>
     <a href="https://visitcount.itsvg.in">
         <img src="https://visitcount.itsvg.in/api?id=aneshodza&amp;icon=0&amp;color=0" alt="">
