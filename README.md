@@ -36,8 +36,8 @@ studyweek is an iOS App made by me and <a href="https://github.com/MeritonAliu">
 <h1 id="-my-setup-">👨‍💻 My setup:</h1>
 <p>
     💻: I commercially work on a RedHat system and privately on an M2 MacBook Air <br>
-    ⚙️: My Terminal of choice is Alacritty with tmux and zsh. <a href="https://github.com/aneshodza/.dotfiles/blob/main/.zshrc">Check out my .zshrc here</a><br>
-    ✍️: As my IDE I use nvim with my <a href="https://github.com/aneshodza/nvchad_config">own nvchad config</a>. I used to have my own vim config <a href="https://github.com/aneshodza/.dotfiles/blob/main/.vimrc">which you can find here</a>
+    ⚙️: My Terminal of choice is iTerm2 with zsh. <a href="https://github.com/aneshodza/.dotfiles/blob/main/.zshrc">Check out my .zshrc here</a><br>
+    ✍️: As my IDE I use nvim with my <a href="https://github.com/aneshodza/nvim">own config</a>, which was forked from NvChad
 </p>
 
 <hr>
